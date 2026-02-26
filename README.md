@@ -1,4 +1,4 @@
-# cinematic-landing
+# cinematic-landing with open to linkdin page
 # My First Moving Website 🎬✨
 # Video Background Landing Page
 
