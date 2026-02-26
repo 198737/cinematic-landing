@@ -1,7 +1,7 @@
 # cinematic-landing with open to linkdin page
 # My First Moving Website 🎬✨
 # Video Background Landing Page
-
+live demo: https://198737.github.io/cinematic-landing/
 This project demonstrates a responsive landing page
 with a full-screen autoplay video background.
 
